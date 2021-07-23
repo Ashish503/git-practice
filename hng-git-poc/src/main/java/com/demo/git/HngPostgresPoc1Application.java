@@ -16,6 +16,7 @@ public class HngPostgresPoc1Application {
 <<<<<<< Upstream, based on origin/develop
 <<<<<<< Upstream, based on origin/develop
 	//D3
+<<<<<<< Upstream, based on origin/develop
 	//D4
 =======
 =======
@@ -38,4 +39,8 @@ public class HngPostgresPoc1Application {
 >>>>>>> 5ad82df equal
 
 >>>>>>> 476d103 equlize
+=======
+	//D5
+	//D6
+>>>>>>> da048a3 D5D6
 }
