@@ -11,6 +11,14 @@ public class HngPostgresPoc1Application {
 	}
 	//D1
 	//D2
+<<<<<<< Upstream, based on origin/develop
 	//D3
 	//D4
+=======
+<<<<<<< Upstream, based on origin/develop
+=======
+	
+	
+>>>>>>> 6f6c0b2 more remove
+>>>>>>> 88abe6d more remove
 }
