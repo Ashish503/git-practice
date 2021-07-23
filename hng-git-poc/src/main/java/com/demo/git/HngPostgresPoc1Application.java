@@ -11,9 +11,6 @@ public class HngPostgresPoc1Application {
 	}
 	//D1
 	//D2
-	//f1
-	//f2
-	//D3
-	//D4
-
+	
+	
 }
