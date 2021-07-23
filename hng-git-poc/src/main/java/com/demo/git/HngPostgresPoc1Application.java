@@ -10,10 +10,13 @@ public class HngPostgresPoc1Application {
 		SpringApplication.run(HngPostgresPoc1Application.class, args);
 	}
 	//D1
+<<<<<<< Upstream, based on feature
 	//D2
 	//f1
 	//f2
 	//D3
 	//D4
 
+=======
+>>>>>>> 0d981b6 D1 added
 }
