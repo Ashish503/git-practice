@@ -15,13 +15,5 @@ public class HngPostgresPoc1Application {
 	//f2
 	//D3
 	//D4
-	//f3
-	//f4
-	//D5
-	//f5
-	//D6
-	//f6
-	//f7
-	//D8
-	//f8
+
 }
